@@ -15,31 +15,28 @@ Weight the risks and be careful.
 Взвешивайте риски и будьте внимательны.
 
 ## github
-There are only two official QIWI spaces on [GitHub](https://github.com/):
-* https://github.com/qiwi
-* https://github.com/qiwi-forks
-
+There are only two official QIWI spaces on [GitHub](https://github.com/).
 Our open source is only distributed here.
 
-Есть только две официальные организации QIWI на [GitHub](https://github.com/):
+Есть только две официальные организации QIWI на [GitHub](https://github.com/).
+Наш открытый код распространяется только здесь.
+
 * https://github.com/qiwi
 * https://github.com/qiwi-forks
 
-Наш открытый код распространяется только здесь.
 
 ## www
-There are only two official QIWI domains:
-* https://qiwi.com
-* https://qiwi.ru
+There are only two official QIWI domains.
 
 Do not trust any links and emails received from similar _qiwi-like_ 
 addresses that act on behalf of QIWI.
 
-Существуют только два официальных домена QIWI:
+Существуют только два официальных домена QIWI.
+Не доверяйте ссылкам и почтовым сообщениям, полученных с похожих на qiwi адресов, которые действуют от имени QIWI.
+
 * https://qiwi.com
 * https://qiwi.ru
 
-Не доверяйте ссылкам и почтовым сообщениям, полученных с похожих на qiwi адресов, которые действуют от имени QIWI.
 
 ## https
 Only https and nothing else. Pay attention to the protocol when accessing any QIWI resources. 
@@ -51,3 +48,11 @@ Your security is in your hands.
 Мы никогда не используем незашифрованное соединение. Также проверяйте цепочку сертификатов. Без этого https не имеет смысла.
 
 Ваша безопасность — в ваших руках.
+
+## license
+The most of QIWI OSS libraries are MIT-licensed. In short: everything is free, but no guarantees are provided.
+
+Большинство библиотек QIWI OSS лицензированы под MIT. Коротно: все бесплатно, но никаких гарантий.
+
+* [QIWI OSS License in English [EN]](https://github.com/qiwi/license/blob/master/src/main/tpl/qosl_en.tpl)
+* [Лицензия QIWI OSS на русском [RU]](https://github.com/qiwi/license/blob/master/src/main/tpl/qosl_ru.tpl)
