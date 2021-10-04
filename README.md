@@ -52,7 +52,7 @@ Your security is in your hands.
 ## license
 The most of QIWI OSS libraries are MIT-licensed. In short: everything is free, but no guarantees are provided.
 
-Большинство библиотек QIWI OSS лицензированы под MIT. Коротно: все бесплатно, но никаких гарантий.
+Большинство библиотек QIWI OSS лицензированы под MIT. Коротко: все бесплатно, но никаких гарантий.
 
 * [QIWI OSS License in English [EN]](https://github.com/qiwi/license/blob/master/src/main/tpl/qosl_en.tpl)
 * [Лицензия QIWI OSS на русском [RU]](https://github.com/qiwi/license/blob/master/src/main/tpl/qosl_ru.tpl)
