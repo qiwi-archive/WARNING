@@ -1,5 +1,7 @@
 # ⚠️ Warning
 
+> Merged to https://github.com/qiwi/.github/blob/master/SECURITY.md
+
 ## npmjs
 Please note that only [@qiwi-scoped](https://www.npmjs.com/org/qiwi) npm packages 
 are owned by [QIWI](https://github.com/qiwi). 
